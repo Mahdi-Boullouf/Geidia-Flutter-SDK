@@ -15,8 +15,8 @@ dependencies:
   meta: ^1.7.0
   async: ^2.8.2
   html: ^0.15.3
-  webview_flutter: ^4.2.3
-  url_launcher: ^4.7.0
+  webview_flutter: ^4.2.3 
+  url_launcher: ^6.3.2
   crypto: ^3.0.2
 
 dev_dependencies:
